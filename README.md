@@ -1,13 +1,13 @@
 # Friction-Simulation-Project
 
-Features
+Features in Simulation
 - Simulates two moving boxes on separate floors.
 - Applies physics formulas such as gravity, normal force, and friction.
 - You can distinguish between static and kinetic friction.
 - Has animation with the use of Java Timer.
 - Boxes slow down over time due to friction and bounce off screen edges.
 
-Physics Concepts Used
+Physics Concepts in Simulation
 - Gravity Force (Fg) = m * g.
 - Normal Force (Fn) = m * g.
 - Static Friction (Fs) = μs * Fn.
@@ -37,7 +37,7 @@ How to Run
 3) Compile the program: "javac FrictionBox.java".
 4) Run the program: "java FrictionBox".
 
-Video
+Video Details for Simulation
 
 If you want the full explanation, I highly recommend watching my video, where I explain everything, including the code, physics, and the history behind friction :D.
 
