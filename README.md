@@ -16,8 +16,6 @@ Physics Concepts Used
 - Net Vertical Force (Fnety) = Fn - Fg.
 - Net Force (Fnet) = Fapp - Ff.
 
-This program demonstrations whether the applied force is strong enough to overcome static friction, just how we push objects in the real world. If it is, the boxes begin to move and kinetic friction takes place.
-
 How It Works 
 - The program initializes variables like mass, gravity, velocities, and friction coefficients.
 - It calculates all forces acting on the boxes (assuming no air resistance).
@@ -39,10 +37,9 @@ How to Run
 3) Compile the program: "javac FrictionBox.java".
 4) Run the program: "java FrictionBox".
 
-Inspiration
+Video
+If you want the full explanation, I highly recommend watching my video, where I explain everything, including the code, physics, and the history behind friction :D.
+Video Link of Simulating Friction in Java (YouTube) - https://youtu.be/_NHbPYDnwoY?si=o_jonQvRN190B4mU
 
-I made this project because I wanted to learn the physics behide moving objects and the factors that friction play to slow down a moving object with some sort of force acting on it. The curiosity of being in my physics class, also bought me wondering how does friction function this way. As a result, I took the knowledge about coding that I know and the physics which I learned in my physics class and made this simulation.
 
-Conclusion
 
-This project was not very difficult and did not involve any complex or advance physics calculations or coding skills. However, I still enjoyed making this project because it helped reinforce important basic concepts like friction, force, and motion. Understanding and mastering these fundamentals is necessary before moving on to more advanced physics or programming projects.
