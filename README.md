@@ -35,7 +35,7 @@ Requirements
 
 How to Run 
 1) Copy the code into a Java file named "FrictionBox.java".
-2) Make sure the image files aare in the same directory, or else boxes won't appear in the following window.
+2) Make sure the image files are in the same directory, or else boxes won't appear in the following window.
 3) Compile the program: "javac FrictionBox.java".
 4) Run the program: "java FrictionBox".
 
@@ -45,4 +45,4 @@ I made this project because I wanted to learn the physics behide moving objects 
 
 Conclusion
 
-This project was not very difficult and did not involve any complex or advance physics calculations or coding skills. However, I still enjoyed making this project becasue it helped reinforce important basic concepts like friction, force, and motion. Understanding and mastering these fundamentals is necessary before moving on to more advanced physics or programming projects.
+This project was not very difficult and did not involve any complex or advance physics calculations or coding skills. However, I still enjoyed making this project because it helped reinforce important basic concepts like friction, force, and motion. Understanding and mastering these fundamentals is necessary before moving on to more advanced physics or programming projects.
