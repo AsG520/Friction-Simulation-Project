@@ -43,7 +43,9 @@ How to Run
 4) Run the program: "java FrictionBox".
 
 Inspiration
+
 I made this project because I wanted to learn the physics behide moving objects and the factors that friction play to slow down a moving object with some sort of force acting on it. The curiosity of being in my physics class, also bought me wondering how does friction function this way. As a result, I took the knowledge about coding that I know and the physics which I learned in my physics class and made this simulation.
 
 Conclusion
+
 This project was not very difficult and did not involve any complex or advance physics calculations or coding skills. However, I still enjoyed making this project becasue it helped reinforce important basic concepts like friction, force, and motion. Understanding and mastering these fundamentals is necessary before moving on to more advanced physics or programming projects.
