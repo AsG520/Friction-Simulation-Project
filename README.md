@@ -16,7 +16,7 @@ Physics Concepts in Simulation
 - Net Vertical Force (Fnety) = Fn - Fg.
 - Net Force (Fnet) = Fapp - Ff.
 
-How It Works 
+How it Works 
 - The program initializes variables like mass, gravity, velocities, and friction coefficients.
 - It calculates all forces acting on the boxes (assuming no air resistance).
 - It checks if the applied force can overcome static friction.
@@ -42,6 +42,3 @@ Video Details for Simulation
 If you want the full explanation, I highly recommend watching my video, where I explain everything, including the code, physics, and the history behind friction :D.
 
 Video Link of Simulating Friction in Java (YouTube) - https://youtu.be/_NHbPYDnwoY?si=o_jonQvRN190B4mU
-
-
-
