@@ -2,7 +2,7 @@
 
 Visual of Simulation
 <br>
-<img width="1030" height="432" alt="Image" src="https://github.com/user-attachments/assets/40e6a32a-a799-4069-91e3-b78c5db2c36a" />
+<img width="1030" height="532" alt="Image" src="https://github.com/user-attachments/assets/40e6a32a-a799-4069-91e3-b78c5db2c36a" />
 
 Features in Simulation
 - Simulates two moving boxes on separate floors.
