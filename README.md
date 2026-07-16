@@ -1,5 +1,9 @@
 # Friction-Simulation-Project
 
+Visual of Simulation
+<br>
+<img width="1230" height="732" alt="Image" src="https://github.com/user-attachments/assets/40e6a32a-a799-4069-91e3-b78c5db2c36a" />
+
 Features in Simulation
 - Simulates two moving boxes on separate floors.
 - Applies physics formulas such as gravity, normal force, and friction.
