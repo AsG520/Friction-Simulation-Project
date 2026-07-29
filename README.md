@@ -1,17 +1,16 @@
 # Friction-Simulation-Project
 
-Visual of Simulation
-<br>
+## Visual of Simulation
 <img width="1130" height="632" alt="Image" src="https://github.com/user-attachments/assets/40e6a32a-a799-4069-91e3-b78c5db2c36a" />
 
-Features in Simulation
+## Features in Simulation
 - Simulates two moving boxes on separate floors.
 - Applies physics formulas such as gravity, normal force, and friction.
 - You can distinguish between static and kinetic friction.
 - Has animation with the use of Java Timer.
 - Boxes slow down over time due to friction and bounce off screen edges.
 
-Physics Concepts in Simulation
+## Physics Concepts in Simulation
 - Gravity Force (Fg) = m * g.
 - Normal Force (Fn) = m * g.
 - Static Friction (Fs) = μs * Fn.
@@ -20,7 +19,7 @@ Physics Concepts in Simulation
 - Net Vertical Force (Fnety) = Fn - Fg.
 - Net Force (Fnet) = Fapp - Ff.
 
-How it Works 
+## How it Works 
 - The program initializes variables like mass, gravity, velocities, and friction coefficients.
 - It calculates all forces acting on the boxes (assuming no air resistance).
 - It checks if the applied force can overcome static friction.
@@ -28,21 +27,20 @@ How it Works
 - Friction slows the boxes down over time.
 - When boxes hit the edge of the screen, they bounce back creating what is known as collisions.
 
-Requirements
+## Requirements
 - Java (JDK 8 or higher).
 - IDE (e.g., VS Code, Eclipse, or IntelliJ).
 - Image files:
   1) box.png
   2) box2.png
 
-How to Run 
+## How to Run 
 1) Copy the code into a Java file named "FrictionBox.java".
 2) Make sure the image files are in the same directory, or else boxes won't appear in the following window.
 3) Compile the program: "javac FrictionBox.java".
 4) Run the program: "java FrictionBox".
 
-Video Details for Simulation
-
+## Video Details for Simulation 
 If you want the full explanation, I highly recommend watching my video, where I explain everything, including the code, physics, and the history behind friction :D.
 
 Video Link of Simulating Friction in Java (YouTube) - https://youtu.be/_NHbPYDnwoY?si=o_jonQvRN190B4mU
