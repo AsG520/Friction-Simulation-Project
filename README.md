@@ -43,4 +43,4 @@
 ## Video Details for Simulation 
 If you want the full explanation, I highly recommend watching my video, where I explain everything, including the code, physics, and the history behind friction :D.
 
-Video Link of Simulating Friction in Java (YouTube) - https://youtu.be/_NHbPYDnwoY?si=o_jonQvRN190B4mU
+Video Link of Simulating Friction in Java (YouTube) - [https://youtu.be/_NHbPYDnwoY?si=o_jonQvRN190B4mU].
