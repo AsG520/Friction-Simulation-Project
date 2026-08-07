@@ -1,5 +1,14 @@
 # Friction-Simulation-Project
 
+## Table of Contents
+- Visual of Simulation
+- Features in Simulation
+- Physics Concepts in Simulation
+- How it Works
+- Requirements
+- How to Run
+- Video Details for Simulation
+
 ## Visual of Simulation
 <img width="1130" height="632" alt="Image" src="https://github.com/user-attachments/assets/40e6a32a-a799-4069-91e3-b78c5db2c36a" />
 
