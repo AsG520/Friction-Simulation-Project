@@ -1,13 +1,13 @@
-# 🥾 Friction-Simulation-Project
+# 🥾 Friction Simulation Project
 
 ## 📘 Table of Contents
-- Visual of Simulation
-- Features in Simulation
-- Physics Concepts in Simulation
-- How it Works
-- Requirements
-- How to Run
-- Video Details for Simulation
+- 🎨 Visual of Simulation
+- 🔥 Features in Simulation
+- 📝 Physics Concepts in Simulation
+- 🛠️ How it Works
+- 🎯 Requirements
+- 💻 How to Run
+- 📹 Video Details for Simulation
 
 ## 🎬 Video Clip of Simulation
 https://github.com/user-attachments/assets/8f4e5c76-43b5-4ec4-a852-aa4d78d66960
